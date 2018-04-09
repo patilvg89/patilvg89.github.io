@@ -1,8 +1,8 @@
-# JSPlaygrounds
+# Code Editor
 
 [Show me the demo!](https://patilvg89.github.io/)
 
-### Running Locally
+### Run Locally
 
 ```
   npm install

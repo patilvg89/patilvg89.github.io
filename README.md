@@ -1,6 +1,6 @@
 # JSPlaygrounds
 
-[Show me the demo!](https://pativg89.github.io/)
+[Show me the demo!](https://patilvg89.github.io/)
 
 ### Running Locally
 
